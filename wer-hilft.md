@@ -1,4 +1,5 @@
-## Wer kann mir weiterhelfen?
+**Wer kann mir weiterhelfen?**
+
 Anleitungen und Videos, die Sie bei der Einrichtung und Nutzung von LOGINEO NRW MESSENGER unterstützen, finden Sie auf der Seite [Unterstützungsmaterial](https://www.logineo.schulministerium.nrw.de/LOGINEO-NRW/NEU-LOGINEO-NRW-Messenger/Unterstuetzungsmaterial/) der Medienberatung NRW.
 
 Auf der Seite der Medienberatung NRW gibt es auch [Antworten zu häufig gestellten Fragen (FAQ)](https://www.logineo.schulministerium.nrw.de/LOGINEO-NRW/Neu-LOGINEO-NRW-Messenger/FAQ/).
