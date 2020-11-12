@@ -1,4 +1,4 @@
-**Information zur nächsten geplante Wartung**
+**Information zur nächsten geplanten Wartung**
 
 Liebe Kolleginnen und Kollegen,
 
