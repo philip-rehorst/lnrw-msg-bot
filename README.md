@@ -1,4 +1,5 @@
-# Inhalte für den Support-Bot LOGINEO NRW Messenger 
-Mit den hier liegenden Dokumenten wird der Telegram-Bot @lnrw_msg_bot gefüttert.
+# Übersicht häufiger Fragen zum LOGINEO NRW Messenger 
 
-Bitte nur fertige Texte im Branch <code>main</code> speichern. Bis zur Fertigstellung bitte <code>develop</code> nutzen!
+Pull-requests bitte gegen den Branch <code>develop</code>.
+
+Unbeantwortete Fragen können als Issue gemeldet werden.
