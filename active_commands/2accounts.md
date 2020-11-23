@@ -1,4 +1,4 @@
-# Kann ich im Messenger in zwei Instanzen gleichzeitig eingeloggt sein (Lehrer an zwei Schulen)?
+**Kann ich im Messenger in zwei Instanzen gleichzeitig eingeloggt sein (Lehrer an zwei Schulen)?**
 
 Vorläufig nein. Es ist angedacht. Es gibt alternative Möglichkeiten:
 
